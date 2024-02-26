@@ -1,4 +1,4 @@
-# PowerBI1
+# Análise de vendas da buscante
 
 ![image](https://github.com/dsCarneiro/PowerBI1/assets/148643524/4ff07a3a-6b35-40c0-b5d7-f3b41b87fb38)
 
